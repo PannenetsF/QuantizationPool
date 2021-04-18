@@ -1,6 +1,0 @@
-[submodule "TQT"]
-	path = TQT
-	url = https://github.com/PannenetsF/TQT.git
-[submodule "wageubn"]
-	path = wageubn
-	url = https://github.com/PannenetsF/wageubn.git
