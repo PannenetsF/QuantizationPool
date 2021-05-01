@@ -190,7 +190,7 @@ tqt.config.config_network(net, '', config)
 tqt.threshold.init_network(net, net, 'net', acti_method='max', show=True)
 tqt.fold.make_the_shortcut_share(net, show=True)
 net.cuda()
-tqt.fold.fold_the_network(net)
+taaaaqt.fold.fold_the_network(net)
 print(net)
 valid(net, loss_function, test_loader, 0, cali=False)
 # for i in range(10):
